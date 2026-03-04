@@ -122,5 +122,5 @@ https://capitalbikeshare.com/system-data
 
 ## 👩‍💻 Author
 
-Your Name  
+Dwi Nur Indah Sari
 Exploratory Data Analysis Project  
